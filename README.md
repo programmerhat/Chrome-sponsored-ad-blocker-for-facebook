@@ -4,4 +4,4 @@
 
 2. Go to this link to install the [free Facebook Ad Blocker, for Sponsored ads (videos and images)](https://chrome.google.com/webstore/detail/video-ad-blocker-for-face/cfelggdancjlfmekcfekjemffindioac)
 
-3. Go to facebook.com and everything should be working.
+3. Go to facebook.com and everything should be working. All the sponsored ads and right-hand sidebar ad should be disappeared.
